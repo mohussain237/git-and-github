@@ -8,3 +8,7 @@ let products = async ()=> {
 }
 
 console.log(products);
+
+function data () {
+  conole.log('data')
+}
